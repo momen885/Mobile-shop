@@ -11,7 +11,7 @@ export default function Header() {
   return (
     <header className={styles.header}>
       <div className={styles.logo}>
-        <h2>Mobile shop</h2>
+        <h2>MOBILE</h2>
       </div>
       {menu && (
         <nav className={styles.navbar}>

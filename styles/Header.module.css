@@ -5,8 +5,10 @@
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  height: 120px;
-  margin-bottom: 20px;
+  height: 80px;
+}
+.logo h2 {
+  color: #383333;
 }
 .navbar {
   position: absolute;
@@ -61,6 +63,6 @@
   }
 }
 .menu img {
-  width: 50px;
+  width: 40px;
   cursor: pointer;
 }
